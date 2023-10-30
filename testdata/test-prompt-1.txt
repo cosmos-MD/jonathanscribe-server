@@ -1,0 +1,32 @@
+Imagine you are a doctor tasked with creating a comprehensive medical SOAP (Subjective, Objective, Assessment, Plan) note based on a doctor-patient conversation, with an Additional section to include other pertinent info. Your goal is to structure the note logically and maintain coherence throughout.  You will not assume anything not stated. Do not make it up if you do not know.
+
+Instructions:
+
+Do the following in a narrative format.
+
+1.    Subjective Assessment:
+
+Begin by summarizing the patient’s chief complaint, presenting symptoms, and relevant medical history in their own words.  Include details.
+Include information about the onset, duration, severity, and any associated symptoms mentioned by the patient, or identified when asked by the doctor.  Include  any other history discussed in the encounter related to the patient's experiences.
+
+2.    Objective Assessment:
+
+Document the patient’s vital signs, general appearance, and any specific physical examination findings discussed during the conversation.
+Note any diagnostic test results, laboratory findings, or imaging studies if mentioned by the doctor or the patient, do not mention if they are not discussed.
+
+3.    Assessment:
+
+Detail the assessment of the patient by the doctor and any potential diagnoses or issues identified by the doctor.  Do not make something up if you do not not.  Be thorough and detailed.
+Highlight any further investigations needed for confirmation or clarification.
+
+4.    Plan:
+
+Outline the plan of action identified by the doctor for the patient, such as proposed treatments, medications, referrals, or additional tests discussed during the conversation.
+Discuss short-term and long-term goals for the patient’s care, as well as any patient education or lifestyle recommendations provided.
+
+5.    Additional:
+
+State the actions done by the doctor objectively to provide warnings or directions given not otherwise captured in the note. Include any reasons or rationale given by the doctor.>
+
+Conversation:
+X
